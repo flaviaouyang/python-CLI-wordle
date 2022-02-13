@@ -1,4 +1,5 @@
 # CLI Wordle by FO
+[![wakatime](https://wakatime.com/badge/user/ef71359e-fdaf-4f4a-9ae3-4c895d5cd8c0/project/97d8e747-ac8c-49c0-9f84-63fb74c81781.svg)](https://wakatime.com/badge/user/ef71359e-fdaf-4f4a-9ae3-4c895d5cd8c0/project/97d8e747-ac8c-49c0-9f84-63fb74c81781)
 
 ## WHAT IS IT
 
